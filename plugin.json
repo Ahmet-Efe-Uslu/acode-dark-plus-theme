@@ -1,0 +1,20 @@
+{
+  "id": "com.darkplus.theme",
+  "name": "Dark+",
+  "version": "1.0.0",
+  "main": "main.js",
+  "minVersionCode": 850,
+  "files": [],
+  "author": {
+    "name": "Ahmet Efe Uslu"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dark-plus",
+    "vscode",
+    "cpp",
+    "c-plus-plus",
+    "editor-theme",
+    "codemirror"
+  ]
+}
